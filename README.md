@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeankyle
-- 👀 I’m interested in Laravel MVC
+- 👀 Web developer and music pro
 - 🌱 I’m currently working on creating a custom PHP MVC framework
-- 💞️ I’m looking to collaborate on ideas on how this could be made better
+- 💞️ I’m on a search to learn more so that I can make clean code that is efficient, reliable and easily maintained.
 - 📫 How to reach me : simplygenius78@gmail.com and +255 628 72 75 92
 
 <!---
